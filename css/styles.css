@@ -1,0 +1,6 @@
+.time {
+  display: inline-block;
+  width: 100px;
+  border: 1px solid teal;
+  text-align: center;
+}
